@@ -1,0 +1,61 @@
+body {
+    background-color: #dededd
+}
+
+
+.conatiner {
+    display: grid;
+    place-items: center;
+}
+
+h1 {
+    margin-top: 40px;
+}
+
+form {
+    margin-top: 30px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 7px;
+    border: 1px solid #fff;
+}
+
+
+button {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background-color: rgb(20, 131, 223);
+    font-size: 16px;
+    color: #fff;
+}
+
+button:hover {
+    background-color: blue;
+    color: #fff;
+} 
+
+
+.card
+ {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    width: 150px;
+    padding: 20px;
+    text-align: center;
+ }
+
+
+ marquee
+ {
+    font-weight: 400;
+    font-weight: bold;
+ }
